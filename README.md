@@ -6,27 +6,27 @@ I built a dashboard with individual pages for each waether plot and a means by w
 **Website Requirements**
 My website consists of 7 pages total, including:
 
-**A landing page containing:**__
+**A landing page containing:**
 
 An explanation of the project.
 Links to each visualizations page with a sidebar containing preview images of each plot.
 
-**
-**I created four visualization pages, each with:**__
+
+**I created four visualization pages, each with:**
 
 A descriptive title and heading tag.
 The plot/visualization itself for the selected comparison.
 A paragraph describing the plot and its significance.
 
 
-**I created a "Comparisons" page that:**__
+**I created a "Comparisons" page that:**
 
 Contains all of the visualizations on the same page so I can easily visually compare them.
 I used a Bootstrap grid for the visualizations.
 The grid contained two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 
 
-**I created a "Data" page that:**__
+**I created a "Data" page that:**
 
 Displays a responsive table containing the data used in the visualizations.
 Includes a table with a bootstrap table component.
